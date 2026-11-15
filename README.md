@@ -4,7 +4,7 @@
 
 <br>
 
-I'm a B.Tech CS student at **SRM IST** building full-stack products and exploring **Web3** and **AI/ML**.
+I'm a **developer and data engineer** who builds full-stack products, GPU tooling and AI systems, with a soft spot for **Web3**.
 
 **Now**
 
@@ -22,9 +22,10 @@ JavaScript · TypeScript · Python · Solidity · React · Next.js · Tailwind �
 
 **Experience**
 
-- Built full-stack apps with React, Node.js and MongoDB, plus real-time video with WebRTC and Firebase
-- Integrated third-party APIs and led authentication, including Web3 wallet login
-- Worked in agile, cross-functional teams
+- **Data Engineer**, Infosys
+- **AI Evaluation**, Deccan AI: freelance RLHF and LLM output review
+- **App Development Intern**, LGQ Solutions: C#/.NET, MySQL, pytest, GitHub Actions
+- Built full-stack apps with React, Node.js and MongoDB, plus real-time video with WebRTC and Firebase, and Web3 wallet login
 
 **GitHub**
 
