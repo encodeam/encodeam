@@ -1,65 +1,36 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aniketxmishra/Aniketxmishra/main/assets/hero.svg" alt="aniket@blink ~ terminal" width="100%" />
+  <img src="header.svg" width="100%" alt="Aniket Mishra — Full Stack Developer · Web3 & AI Explorer" />
 </div>
 
-<br/>
+<br>
 
-## `// about`
+I'm a B.Tech CS student at **SRM IST** building full-stack products and exploring **Web3** and **AI/ML**.
 
-```ts
-const aniket = {
-  role:     "Final-year CS @ SRM IST",
-  focus:    ["ML systems", "GPU performance", "MLOps"],
-  built:    "Blink, predicts GPU latency & VRAM without running the model",
-  before:   ["App-Dev intern @ LGQ Solutions", "AI evaluation @ Deccan AI (RLHF)"],
-  openSource: "sktime",
-};
-```
+**Now**
 
-<br/>
+- **Nomad**, a platform for real-world connections and elderly companionship
+- SAR image colorization and air-quality mapping
+- Smart contracts in Solidity on Ethereum
 
-## `// featured: Blink`
+**Stack**
 
-> **Predict inference latency and VRAM for PyTorch models before you ever touch a GPU.**
-> Hybrid **GNN/GAT + XGBoost** predictor, served via **FastAPI**, with a **Streamlit** dashboard. Under review at IEEE INDICON 2026.
+JavaScript · TypeScript · Python · Solidity · React · Next.js · Tailwind · Node.js · Express · Firebase · AWS · Docker · MongoDB · PostgreSQL · MySQL · Git
 
-```bash
-pip install blink-gpu
-```
+**Experience**
 
-| Target | Before | After |
-| :-- | :--: | :--: |
-| CNN latency (MAPE) | 41.1% | **~19.4%** |
-| LLM decode (MAPE) | 139.6% | **30.9%** |
+- Built full-stack apps with React, Node.js and MongoDB, plus real-time video with WebRTC and Firebase
+- Integrated third-party APIs and led authentication, including Web3 wallet login
+- Worked in agile, cross-functional teams
 
-Trained on profiling data from **L40S, A100, T4 and P100**. Live on [PyPI](https://pypi.org/project/blink-gpu/) with 2,000+ downloads.
-
-<br/>
-
-## `// also`
-
-- 🕵️ **DPBH hackathon**: led my team to a 92%-accuracy dark-pattern classifier and reached Round 2
-- 🤝 **sktime**: open-source contributions
-- 🧪 **Deccan AI**: reviewed and rated LLM outputs for RLHF
-
-<br/>
-
-## `// stack`
+**GitHub**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,cs,fastapi,mysql,mongodb,docker,githubactions,linux,git&theme=dark" alt="stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketxmishra&show_icons=true&theme=dark&bg_color=0b0b0c&title_color=f4f4f5&text_color=a1a1aa&icon_color=F75C7E&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketxmishra&layout=compact&theme=dark&bg_color=0b0b0c&title_color=f4f4f5&text_color=a1a1aa&hide_border=true" height="150" alt="Top languages" />
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aniketxmishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketxmishra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="languages" />
-</div>
+**Connect**
 
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/anik8mishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:anik8mishra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+[Email](mailto:anik8mishra@gmail.com) · [LinkedIn](https://linkedin.com/in/anik8mishra)
