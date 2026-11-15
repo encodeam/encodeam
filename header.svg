@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200" role="img" aria-label="Aniket Mishra">
+  <style>
+    .bg { fill: #0b0b0c; }
+    .name { fill: #f4f4f5; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 56px; font-weight: 600; letter-spacing: -1px; }
+    .role { fill: #a1a1aa; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 20px; }
+    .accent { fill: #F75C7E; }
+    .rule { stroke: #27272a; stroke-width: 1; }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    .d1 { animation-delay: 0.2s; }
+    .d2 { animation-delay: 0.9s; }
+    .d3 { animation-delay: 1.4s; }
+    .rule-draw { stroke-dasharray: 720; stroke-dashoffset: 720; animation: draw 1.6s ease-in-out 0.4s forwards; }
+    .typed { width: 0; animation: type 2.4s steps(41, end) 1.6s forwards; }
+    .caret { transform: translateX(0); animation: caret 2.4s steps(41, end) 1.6s forwards, blink 1s step-end 1.6s infinite; }
+    @keyframes caret { from { transform: translateX(0); } to { transform: translateX(500px); } }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes type { from { width: 0; } to { width: 500px; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; width: 500px !important; }
+      .caret { display: none; }
+    }
+  </style>
+  <rect class="bg" width="860" height="200" rx="12"/>
+  <g class="fade d1" style="transform-box: fill-box">
+    <text class="name" x="60" y="92">Aniket Mishra</text>
+  </g>
+  <line class="rule rule-draw" x1="60" y1="112" x2="780" y2="112"/>
+  <g class="fade d2">
+    <clipPath id="clip"><rect class="typed" x="60" y="124" width="0" height="34"/></clipPath>
+    <text class="role" x="60" y="150" clip-path="url(#clip)">Full Stack Developer · Web3 &amp; AI Explorer</text>
+  </g>
+  <rect class="accent caret" x="60" y="128" width="10" height="24"/>
+</svg>
